@@ -20,4 +20,4 @@ Pretrained word embeddings from GloVe with 100 dimensions was given a try. Embed
 
 ### 4. Gensim
 
-Last hope was to use Google's word2vec - it has 300 dimensions for the word embeddings. GloVe has embeddings with 300 dimensions too but always good to venture to a different place. The last test evaluation gave accuracy of 82%.
+Last hope was to use Google's word2vec - it has 300 dimensions for the word embeddings. GloVe has word embeddings with 300 dimensions but always good to venture to a different place. The last test evaluation gave accuracy of 82%.
