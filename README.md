@@ -6,13 +6,13 @@ The first part is `Responsible Investing.ipynb` notebook which uses Naive Bayes 
 
 The second part is `A New Bottom Line` folder which has 6 notebooks, and explores different flavours of Neural Networks and pretrained word embeddings from GloVe and Google's word2vec (using Gensim), to predict the same task as above.
 
-# Summary of Results
+## Results
 
 Naive Bayes gave accuracy of 76% while Logistic Regression gave 80% accuracy.
 
 Neural Networks - from a simple one to using LSTM and CNN didn't seem to have improved accuracy. Using pretrained word embeddings from GloVe and Google's word2vec with Gensim didn't seem to have improved accuracy either. The accuracy from these excercises hovered at around 80%.
 
-# Conclusion
+## Conclusion
 
 Using traditinal methods of machine learning with Naive Bayes and Logistic Regression seemed to have done a good job. 
 
